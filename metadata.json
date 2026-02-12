@@ -1,0 +1,14 @@
+{
+  "files": [
+    "index.html",
+    "main.tsx",
+    "App.tsx",
+    "types.ts",
+    "utils/seatingLogic.ts",
+    "components/Button.tsx",
+    "index.css"
+  ],
+  "requestFramePermissions": [],
+  "name": "Secret Seat Planner",
+  "description": ""
+}
